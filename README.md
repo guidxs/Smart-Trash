@@ -28,7 +28,7 @@ O projeto foi desenvolvido para monitorar a quantidade de lixo na lixeira e auto
 
 ## Diagrama de Conexão
 
-![Diagrama de Conexão](![image](https://prnt.sc/3ikNI4J1bk10))
+![Diagrama de Conexão](https://github.com/guidxs/Smart-Trash/assets/126616600/75612e63-c7ae-4720-90e7-02b11e0e93ec)
 
 ## Notas
 
