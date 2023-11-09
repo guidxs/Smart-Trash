@@ -4,7 +4,7 @@ Este projeto consiste em uma lixeira inteligente que utiliza um ESP32, um sensor
 
 ## Descrição
 
-O projeto foi desenvolvido para monitorar a quantidade de lixo na lixeira e automatizar o processo de abertura da tampa quando alguém se aproxima. Ele utiliza um sensor ultrassônico para medir a distância até o lixo na lixeira e exibe a porcentagem do nível de lixo em um display LCD. Além disso, um servo motor é acionado para abrir a tampa quando detecta a presença de alguém próximo.
+O projeto foi desenvolvido para monitorar a quantidade de lixo na lixeira e automatizar o processo de abertura da tampa quando alguém se aproxima. Ele utiliza um sensor ultrassônico para medir a distância até o lixo na lixeira e exibe a porcentagem do nível de lixo em um display LCD.
 
 ## Componentes Utilizados
 
