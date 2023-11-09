@@ -1,6 +1,6 @@
 # Lixeira Inteligente
 
-Este projeto consiste em uma lixeira inteligente que utiliza um ESP32, um sensor ultrassônico, um servo motor e um display LCD 16x2 para monitorar o nível de lixo na lixeira e controlar a abertura da tampa.
+Este projeto consiste em uma lixeira inteligente que utiliza um ESP32, um sensor ultrassônico, um servo motor e um display LCD 16x2 para monitorar o nível de lixo na lixeira.
 
 ## Descrição
 
