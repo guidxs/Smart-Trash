@@ -28,8 +28,7 @@ O projeto foi desenvolvido para monitorar a quantidade de lixo na lixeira e auto
 
 ## Diagrama de Conexão
 
-![Diagrama de Conexão](![image](https://prnt.sc/3ikNI4J1bk10)
-)
+![Diagrama de Conexão](![image](https://prnt.sc/3ikNI4J1bk10))
 
 ## Notas
 
