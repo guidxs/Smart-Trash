@@ -38,6 +38,6 @@ O projeto foi desenvolvido para monitorar a quantidade de lixo na lixeira e auto
 
 ## Autores
 
-- [Guilherme Doretto Sobreiro](github.com/guidxs) - Desenvolvedor
+- Guilherme Doretto Sobreiro | RM: 99674 - Desenvolvedor
 
 ---
