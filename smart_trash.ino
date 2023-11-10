@@ -7,7 +7,7 @@
 // Inicialização do LCD
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
-#define TOPICO_DISTANCIA "/TEF/lamp111/distance" // Tópico MQTT para enviar informações de distância
+#define TOPICO_DISTANCIA "/TEF/sensor111/distance" // Tópico MQTT para enviar informações de distância
 
 const int trigPin = 13; // Pino do trigger do sensor ultrassônico
 const int echoPin = 12; // Pino do echo do sensor ultrassônico
